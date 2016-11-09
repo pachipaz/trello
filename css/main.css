@@ -1,0 +1,27 @@
+body {
+	background-color:#00ADB5;
+}
+
+.cabecera {
+	background-color:#00FFF5;
+}
+.titulo{
+	text-align: center;
+	color:#393E46;
+}
+.acceso{
+	color:black;
+	background-color:#00FFF5;
+	border-radius: 10px;
+	text-align: center;
+	margin-top: 30px;
+}
+.btn {
+	display: inline-block;
+    margin-bottom: -58px;
+    margin-left: -165px;
+    background-color: #222831;
+}
+.tareas {
+	margin-top: 30px;
+}
